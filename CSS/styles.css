@@ -1,0 +1,20 @@
+body {
+  background-color: #F5F6F4;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  margin-top: 80px;
+}
+
+form {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#doggo {
+  display: block;
+  margin: 60px auto 0 auto;
+  max-width: 200px;
+}
